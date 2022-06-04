@@ -1,0 +1,31 @@
+.tableMainContainer {
+  overflow-x: auto;
+  border: 1px solid black;
+  border-radius: 0 0 0.5rem 0.5rem;
+  background-color: white;
+}
+
+.tablebox {
+  width: 100%;
+}
+
+.tableTopCell {
+  text-align: center !important;
+  font-size: 1.2rem !important;
+  font-weight: 700;
+  border-right: 2px solid black !important;
+  border-bottom: 2px solid black !important;
+}
+
+.tableBodyCell {
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+  text-align: center !important;
+  border-right: 2px solid black !important;
+  border-bottom: 2px solid black !important;
+  border-top: 2px solid black !important;
+}
+
+.tableBodyCell:last-of-type {
+  border-right: 0 !important;
+}

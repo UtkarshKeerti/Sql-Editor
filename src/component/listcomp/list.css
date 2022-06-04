@@ -1,0 +1,63 @@
+.listmain {
+  font-family: var(--font-family-1);
+}
+
+.listmain h2 {
+  text-align: center;
+  width: 100%;
+}
+
+.listbg {
+  width: 100%;
+  background-color: #add8e6;
+  margin-top: 0.8rem;
+  border-radius: 5rem;
+}
+
+.listbg p {
+  color: rgb(4, 11, 55);
+  font-size: 1.2rem;
+  padding: 1rem 2rem;
+}
+
+.listbg p b {
+  margin-left: 1rem;
+}
+
+.listbg:hover {
+  background-color: rgb(118, 169, 231);
+
+  cursor: pointer;
+  margin-left: 2rem;
+  transition: 0.3s ease;
+}
+
+.listbg p:hover {
+  color: black;
+}
+@media only screen and (max-width: 1155px) {
+  .listbg {
+    width: 120%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .listbg,
+  .listmain h2 {
+    width: 80%;
+    margin: 0.8rem auto;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .listbg,
+  .listmain h2 {
+    width: 90% !important;
+  }
+}
+
+@media only screen and (max-width: 310px) {
+  .listbg p {
+    padding: 1rem;
+  }
+}

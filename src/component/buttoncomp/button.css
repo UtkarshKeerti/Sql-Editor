@@ -1,0 +1,49 @@
+.buttonClass {
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: black;
+  border-radius: 60px;
+  padding: 0.8rem;
+  transition: all 0.2s ease;
+  text-align: center;
+  border: 2px solid transparent;
+  cursor: pointer;
+  height: max-content;
+  width: max-content;
+}
+
+.primaryBtn {
+  background-color: white;
+  box-shadow: var(--box-shadow-2);
+}
+.primaryBtn:hover {
+  background-color: rgb(10, 40, 103);
+  color: #ffffff;
+}
+
+.secondaryBtn {
+  background-color: #add8e6;
+
+  border: 0;
+  color: black;
+}
+.secondaryBtn:hover {
+  background-color: rgb(118, 169, 231);
+  border: 0;
+  color: #ffffff;
+  box-shadow: var(--box-shadow-2);
+}
+
+.text {
+  margin: 0 1rem;
+}
+
+.disabled {
+  display: none !important;
+}
+
+@media only screen and (max-width: 768px) {
+  .buttonClass {
+    width: 100%;
+  }
+}

@@ -1,0 +1,143 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+ul {
+  padding: 0;
+}
+
+button {
+  outline: none;
+  border: none;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+}
+
+:root {
+  /* box-shadows */
+  --box-shadow-1: 2px 2px 13px rgb(0 0 0 / 10%);
+  --box-shadow-2: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+
+  /* Fonts */
+  --font-family-1: "Georgia", Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, #717174 0%, #515151 50%, #000000 100%);
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(to bottom, #a0a0a2 0%, #989696 50%, #5e5d5d 100%);
+}
+
+.App {
+  overflow-x: hidden;
+}
+
+.lightMode {
+  background-color: white;
+}
+
+.darkMode {
+  background-color: rgb(1, 8, 19);
+}
+
+.darkMode .outputmain p {
+  background-color: rgb(5, 23, 46);
+}
+
+.darkMode .header {
+  background-color: rgb(5, 23, 46);
+}
+
+.darkMode .inputmain p {
+  background-color: rgb(5, 23, 46);
+}
+
+.darkMode .listbg {
+  background-color: rgb(31, 95, 173);
+}
+
+.darkMode .listbg p {
+  color: white;
+}
+
+.darkMode .secondaryBtn {
+  background-color: rgb(31, 95, 173);
+  color: white;
+}
+
+.darkMode .listmain h2 {
+  color: white;
+}
+
+.darkMode .inputfield {
+  background-color: rgb(4, 33, 70);
+  color: white;
+}
+
+.darkMode .tableMainContainer {
+  background-color: rgb(4, 33, 70);
+  border: 1px solid white;
+}
+
+.darkMode .tableTopCell {
+  border-right: 2px solid white !important;
+  border-bottom: 2px solid white !important;
+  border-top: 2px solid white !important;
+  color: white;
+}
+
+.darkMode .tableBodyCell {
+  border-right: 2px solid white !important;
+  border-bottom: 2px solid white !important;
+  border-top: 2px solid white !important;
+  color: white;
+}
+
+.darkMode .listbg:hover {
+  background-color: #add8e6;
+}
+
+.darkMode .secondaryBtn:hover {
+  background-color: #add8e6;
+  color: black;
+}
+
+.darkMode .darkmode {
+  color: white;
+}
+
+.darkMode .App {
+  background-color: rgb(1, 8, 19);
+}
