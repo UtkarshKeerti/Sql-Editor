@@ -8,7 +8,7 @@ const Header = ({ isDarkModeActive, setIsDarkModeActive }) => {
     <div className="header">
       <div>
         <div className="logoimg">
-          <img src={logo} />
+          <img src={logo} alt="" />
           <FontAwesomeIcon icon={faMoon} onClick={() => setIsDarkModeActive(!isDarkModeActive)} className="darkmode" />
         </div>
 
