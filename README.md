@@ -15,7 +15,7 @@ Dark Mode:
 
 ## Technologies used: Reactjs and Material UI :
 
-## Link of the hosted WebApp : Markup :  [Sql-Editor](https://uk-sql-editor.netlify.app/ "Named link title") 
+## Link of the hosted WebApp : [Sql-Editor](https://uk-sql-editor.netlify.app/ "Named link title") 
 
 ## The page load time of the application :
 
