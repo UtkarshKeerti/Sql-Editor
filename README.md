@@ -1,5 +1,7 @@
 # Sql-Editor:
 
+[Sql-Editor](https://uk-sql-editor.netlify.app/ "Named link title") 
+
 ## Overview : 
 
 Built using React.js and Material UI, this SQL editor can execute basic SQL operations and handle large datasets without crashing the browser. The application has a number of features, a list of which is provided below.
@@ -14,8 +16,6 @@ Dark Mode:
 
 
 ## Technologies used: Reactjs and Material UI :
-
-## Link of the hosted WebApp : [Sql-Editor](https://uk-sql-editor.netlify.app/ "Named link title") 
 
 ## The page load time of the application :
 
