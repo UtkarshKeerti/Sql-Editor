@@ -1,6 +1,6 @@
 # Sql-Editor:
 
-[Sql-Editor](https://uk-sql-editor.netlify.app/ "Named link title") 
+Hosted Link: [Sql-Editor](https://uk-sql-editor.netlify.app/ "Named link title") 
 
 ## Overview : 
 
