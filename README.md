@@ -20,11 +20,11 @@ In Mobile:
 ![SqlEditorPageSpeedMobile](https://user-images.githubusercontent.com/67637794/172020515-f5a9c24f-7171-4955-bc6d-e8e35f398889.png)
 
 ## Features:
-*Can use table list to get the data in output table just with a click.
-*Dark Mode for better user experience
-*Sql Query gets automatically inputted in the input area once a table gets selected from the list
-*Fully responsive, works flawlessly on every device
-*Run query button can also be used to display a table
+* Can use table list to get the data in output table just with a click.
+* Dark Mode for better user experience
+* Sql Query gets automatically inputted in the input area once a table gets selected from the list
+* Fully responsive, works flawlessly on every device
+* Run query button can also be used to display a table
 
 ## Predefined Queries:
 
@@ -44,7 +44,7 @@ select * from territories
 
 
 ## Steps taken to optimize the application:
-*Used proper component structure to make the code clean and modular
-*Kept the codde complexity in check which helped in getting good page insights
-*Implemented Dark mode to provide better user experience
-*Application's UI working perfectly across all the devices 
+* Used proper component structure to make the code clean and modular
+* Kept the codde complexity in check which helped in getting good page insights
+* Implemented Dark mode to provide better user experience
+* Application's UI working perfectly across all the devices 
