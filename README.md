@@ -15,7 +15,7 @@ Dark Mode:
 ![SqlEditorSnipFour](https://user-images.githubusercontent.com/67637794/172021207-db881fc7-d14f-452d-9210-7ac1e626aee6.png)
 
 
-## Technologies used: Reactjs and Material UI :
+## Technologies used: Reactjs and Material UI
 
 ## The page load time of the application :
 
