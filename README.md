@@ -4,8 +4,14 @@
 
 Built using React.js and Material UI, this SQL editor can execute basic SQL operations and handle large datasets without crashing the browser. The application has a number of features, a list of which is provided below.
 
+Light Mode:
 ![SqlEditorSnipOne](https://user-images.githubusercontent.com/67637794/172019033-6eaa88a7-923a-423b-8ff5-7a16ad37f0c7.png)
 ![SqlEditorSnipTwo](https://user-images.githubusercontent.com/67637794/172019041-b8ee098a-24bc-4396-9274-587e46cca9a1.png)
+
+Dark Mode:
+![SqlEditorSnipThree](https://user-images.githubusercontent.com/67637794/172021205-92aad2f9-f9f5-4d96-a210-42de8c2dac42.png)
+![SqlEditorSnipFour](https://user-images.githubusercontent.com/67637794/172021207-db881fc7-d14f-452d-9210-7ac1e626aee6.png)
+
 
 ## Technologies used: Reactjs and Material UI :
 
