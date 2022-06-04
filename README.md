@@ -43,4 +43,8 @@ select * from suppliers
 select * from territories
 
 
-## Steps taken to optimize the application:# Sql-Editor
+## Steps taken to optimize the application:
+Used proper component structure to make the code clean and modular
+Kept the codde complexity in check which helped in getting good page insights
+Implemented Dark mode to provide better user experience
+Application's UI working perfectly across all the devices 
